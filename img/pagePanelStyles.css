@@ -1,0 +1,23 @@
+.pagePanel .textPanel
+	{
+	font-size: 24px; 
+	float: left; 
+	background: #fff; 
+	border: 1px #000 solid;
+	margin: 0 5px 0 0; 
+	}
+
+.pagePanel .darkPanel
+	{
+	margin: 0; 
+	padding: 7px 7px 0 6px;
+	}
+	
+.pagePanel .textLabel
+	{
+	float: right;
+	}
+.pagePanel .strelki a
+	{
+	float:left;
+	}
