@@ -6,7 +6,6 @@ include_once("services/SqlStringFormatter.php");
 include_once("services/DataBaseConnector.php");
 include_once("views/IndexTemplate.php");
 
-
 class main {
     private $render = array(
         'head' => '',
